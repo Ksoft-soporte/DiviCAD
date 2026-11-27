@@ -1,12 +1,13 @@
 {
-  "schema_version": 1,
-  "product": "Ksoft DiviCAD",
-  "version": "1.0.0",
-  "contact": {
-    "whatsapp": "",
-    "email": "",
-    "message": "Hola, solicito una licencia de Ksoft DiviCAD."
-  },
-  "support_enabled": true,
-  "updated": "2026-11-19"
+    "schema_version":  1,
+    "product":  "Ksoft DiviCAD",
+    "version":  "1.0.0",
+    "contact":  {
+                    "whatsapp":  "51999111222",
+                    "email":  "ksoft.licencia@gmail.com",
+                    "message":  "hola, solicito una licencia."
+                },
+    "support_enabled":  true,
+    "updated":  "2026-11-27",
+    "signature":  "4w9o0A43aS10CoLUExaW3LTLltAuK21ZW9JetHgeIw-Skp6vQJiCxSctCfofYQMCUOop_NJut03gp2DkvtCGvHbVlnWWshtRJy3t8h_7ownBR6bXoTRBJUEF8RFDL0auGwLyoXs9_1DM3VgkF33cujq0B4tTdmTdYWj71XEARaLOWXp3HGwgtFuLWN-2OmpHC-rt4vSXOTR_XRNnUOvQJYUAeEs8_LWmYbOxpD_ke62oncmzZoUrdrQREVPVjnaAtTx_I0Z_E8nGdQigachY78mMYd_opOzdyRqW15fOWCf7e7wTHrsQ14OWpWm43OCFPyQC2fsggeI_gsE6NckohQ"
 }
